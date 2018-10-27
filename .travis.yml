@@ -2,4 +2,5 @@ language: java
 sudo: enabled
 install: true
 script:
+  - dir
   - sudo ./gradlew build
