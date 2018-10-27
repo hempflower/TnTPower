@@ -1,7 +1,7 @@
-### TntServer mod  
+# TntServer mod  
 开发团队:ICREATORMC  
-开发人员:hempflower,欧阳
-测试人员:欧阳,浮华
+开发人员:hempflower,欧阳  
+测试人员:欧阳,浮华  
 
 ## 这是什么？  
 这是一个Forge mod,通过这个mod,可以在forge服务器上加载Bukkit插件。这种方法通常比通过代码修改的方式要稳定！  
