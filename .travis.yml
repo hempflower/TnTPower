@@ -2,4 +2,4 @@ language: java
 sudo: enabled
 install: true
 script:
-  - bundle exec ./gradlew build
+  - ./gradlew build
