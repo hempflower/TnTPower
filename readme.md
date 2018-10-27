@@ -1,4 +1,4 @@
-# TntServer mod  
+# TntServer mod  [![Build Status](https://travis-ci.com/hempflower/redesigned-disco.svg?branch=master)](https://travis-ci.com/hempflower/redesigned-disco)
 开发团队:ICREATORMC  
 开发人员:hempflower,欧阳  
 测试人员:欧阳,浮华  
