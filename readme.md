@@ -1,4 +1,4 @@
-### TntServer mod  
+# TntServer mod  
 开发团队:ICREATORMC  
 开发人员:hempflower,欧阳  
 测试人员:欧阳,浮华  
