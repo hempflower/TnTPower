@@ -5,4 +5,7 @@ install: true
 script:
   - chmod -R 777 gradlew
   - ./gradlew build
-cache: build
+cache:
+  directories:
+  - "$HOME/.gradle"
+  - "$HOME/build/distributions/"
