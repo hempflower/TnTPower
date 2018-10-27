@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tntpower",
+  "name": "TNT Minecraft Server Mod",
+  "description": "Load bukkit plugin on forge!",
+  "version": "1.0.0",
+  "mcversion": "1.11.2",
+  "url": "https://www.i-creator.cn",
+  "updateUrl": "",
+  "authorList": ["ICREATORMC"],
+  "credits": "hempflower,OUYANG",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
