@@ -1,6 +1,7 @@
 language: java
 sudo: enabled
 install: true
+cache: build
 script:
   - chmod -R 777 gradlew
   - ./gradlew build
